@@ -1,0 +1,1 @@
+import{i as e,t}from"./react-SIfiwpqq.js";import{l as n,r}from"./utils-AWVYWfTl.js";function i(e){return e?.isNotFound===!0}var a=e(t(),1);function o(e){let t=r();return a.useCallback(n=>t.navigate({...n,from:n.from??e?.from}),[e?.from,t])}function s(e){let t=r(),i=o(),s=a.useRef(null);return n(()=>{s.current!==e&&(i(e),s.current=e)},[t,e,i]),null}export{o as n,i as r,s as t};

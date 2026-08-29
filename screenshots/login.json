@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/login",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "APOGEE",
+      "hasCanvas": false,
+      "bodyTextLen": 126,
+      "bodyTextHash": "249be701f9abe04c6f985dd8b4450d2f41bc679422bebc79eeecd279490e7057",
+      "bodyTextPrefix": "Apogee Entre para abrir o estaleiro. Cada sonda, token e placa d",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/login.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "APOGEE",
+      "hasCanvas": false,
+      "bodyTextLen": 126,
+      "bodyTextHash": "249be701f9abe04c6f985dd8b4450d2f41bc679422bebc79eeecd279490e7057",
+      "bodyTextPrefix": "Apogee Entre para abrir o estaleiro. Cada sonda, token e placa d",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/login-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/login.json"
+}
